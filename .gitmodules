@@ -1,3 +1,6 @@
 [submodule "firebase/web"]
 	path = firebase/web
 	url = git@github.com:BetterSAProject/roadworksweb.git
+[submodule "firebase/functions"]
+	path = firebase/functions
+	url = git@github.com:BetterSAProject/roadworksfunctions.git

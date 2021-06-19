@@ -1,0 +1,12 @@
+{
+  "name": "firebase-solution-commands",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "build": "cd web && npm run build && cd ../functions && npm run build",
+    "start": "firebase emulators:start",
+    "lint": "cd web && npm run lint && cd ../functions && npm run lint",
+    "test": "cd web && npm run test && cd ../functions && npm run test"
+  }
+}

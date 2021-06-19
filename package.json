@@ -1,0 +1,19 @@
+{
+  "name": "roadworksproject",
+  "version": "1.0.0",
+  "description": "An application used to track degradation of road infrastructure nationwide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetterSAProject/roadworksproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetterSAProject/roadworksproject/issues"
+  },
+  "homepage": "https://github.com/BetterSAProject/roadworksproject#readme"
+}
